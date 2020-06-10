@@ -1,39 +1,26 @@
 # Team-Happiness
 
-Our group is collaborating by testing out different programs and tools by comparing the suicide rates of countries in correlation to the  World Happiness Report Dataset.  Does socioeconomic status, age and/or happiness score of a country impact that country's suicide rate. 
+Our group is collaborating by testing out different programs and tools to compare the suicide rates of countries in correlation to the  World Happiness Report Dataset "Hapiiness Score".  Does socioeconomic status, familial standing, government oversight, age and/or happiness score of a country impact that country's suicide rate? 
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+What visual data representations would best show the results?
 
-Creating list
-Adding a - will change it into a list:
+## Is there a correlation between a country’s happiness score and suicide rate?
 
-- Item 1
-- Item 2
-- Item 3
+Unfortunately, with limiting ourselves to using reputable data, we were not able to find a correlation based on the factors provided to determine a country's overall happiness score and suicide rate. 
 
-# Sample H1
-## Sample H2
-### Sample H3
+## Are certain geographical regions happier than others?
 
-> Use Pandas to clean and format your datasets.
+Our map assigned a color value to the numerical value of the country's "Happiness Score".  Geography does not appear to be a factor in a happiness score. 
 
-> Create a Jupyter Notebook describing the data exploration and cleanup process.
+## Do familial status and age have any contributing factors to happiness scores?
 
-> Create a Jupyer Notebook illustrating the final data analysis.
+We were not able to determine what the familial status indicated.  Did it mean they had family?  That they lived together as a family?  Without knowing specifically what the data was representing, we were frustrated to learn we weren't going to be able to present the data in an understandable way. 
 
-> Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data).
+## Any other factors that might correlate to a country’s overall happiness score?
 
-> Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation.
+If we had more time, we would have liked to have found something that would indicate what caused a country to be ranked higher.  We realized that without knowing what questions were asked in order to produce this data, we weren't able to use it to storytell as much as we had originally planned and hoped to be able to.
 
-> (Optional) Use at least one API, if you can find API witj data pertinent to your primary research questions.
+### In Conclusion:
 
-> Create a write-up summarizing your major findings.  This should include a heading for each "question" you asked of your data and a short description of your findings and any relevant plots.
-
-
-Presentation Requirements: 
-- Questions you found interesting and what motivated you to answer them
-- Where and how you found the data you used to answer these questions
-- The data exploration and cleanup process (accompanieed by your Jupyter Notebook)
-- The analysis process (accompanied by your Jupyter Notebook)
-- Your conclusions, which should include a numerical summary and visualizations of that summary
-- The implications of your findings: what do your findings mean?
+We were not able to find a correlation with a country's happiness score and suicide rate.  Further, we were limted in how we set about to present this data as we didn't have access to the original data's source questions.  We determined that as continents were concerned, it appeared the America's were overall happier, but no other data showed why or what would cause that to be.  Again, without having access to know fully what the data was asking/polling, we couldn't intrepret it fully.  
+ 
