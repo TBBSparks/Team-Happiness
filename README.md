@@ -22,5 +22,5 @@ If we had more time, we would have liked to have found something that would indi
 
 ### In Conclusion:
 
-We were not able to find a correlation with a country's happiness score and suicide rate.  Further, we were limted in how we set about to present this data as we didn't have access to the original data's source questions. 
+We were not able to find a correlation with a country's happiness score and suicide rate.  Further, we were limted in how we set about to present this data as we didn't have access to the original data's source questions.  We determined that as continents were concerned, it appeared the America's were overall happier, but no other data showed why or what would cause that to be.  Again, without having access to know fully what the data was asking/polling, we couldn't intrepret it fully.  
  
