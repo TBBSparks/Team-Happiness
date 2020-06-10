@@ -10,7 +10,7 @@ Unfortunately, with limiting ourselves to using reputable data, we were not able
 
 ## Are certain geographical regions happier than others?
 
-Our map assigned a color value to the numerical value of the country's "Happiness Score".  Geography does not appear to be a factor in a happiness score. 
+Our map assigned a color value to the numerical value of the country's "Happiness Score".  Geography does not appear to be a factor in a happiness score.  The Americas seem to rank higher than other continents as a whole, but there are entire countries that were missing data, so we cannot be entirely sure it's a truthful data representation.  (Africa has several countries not reporting data, therefore it had more 'white' on the map instead of 'blue'.  Was data collected from these countries?  If not, would this have darkened the African map?)
 
 ## Do familial status and age have any contributing factors to happiness scores?
 
