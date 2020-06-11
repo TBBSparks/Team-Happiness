@@ -6,7 +6,7 @@ What visual data representations would best show the results?
 
 ## Is there a correlation between a country’s happiness score and suicide rate?
 
-Unfortunately, with limiting ourselves to using reputable data, we were not able to find a correlation based on the factors provided to determine a country's overall happiness score and suicide rate. 
+To examine the correlation between happiness score index and suicide rate, we created three graphs to hopefully provide insight into this question. The first two were bar graphs divided by top and bottom 10 countries, based on happiness score index. The third was a scatter plot depicting all of the represented countries. Unfortunately, with limiting ourselves to using reputable data, we were not able to find a correlation based on the factors provided to determine a country's overall happiness score and suicide rate. 
 
 ## Are certain geographical regions happier than others?
 
@@ -22,5 +22,4 @@ If we had more time, we would have liked to have found something that would indi
 
 ### In Conclusion:
 
-We were not able to find a correlation with a country's happiness score and suicide rate.  Further, we were limted in how we set about to present this data as we didn't have access to the original data's source questions.  We determined that as continents were concerned, it appeared the America's were overall happier, but no other data showed why or what would cause that to be.  Again, without having access to know fully what the data was asking/polling, we couldn't intrepret it fully.  
- 
+We were not able to find a correlation between a country's happiness score index and suicide rate in 2016.  Further, we were limited in how we set about to present this data as we didn't have access to the original data's source questions. However, we did find a correlation between region of the world and happiness score index. Through the constructed cartogram, it appears that the Western Hemisphere, specifically the America's, had higher scores. Unfortunately, without having access to know fully what the data was asking/polling, we couldn't intrepret it fully.  
